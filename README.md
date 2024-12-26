@@ -75,7 +75,7 @@ To run the project locally:
    git clone https://github.com/eslamalawy/Forkify.git
    ```
 
-   2. **Navigate to the project directory:**
+2. **Navigate to the project directory:**
 
    ```bash
    cd Forkify
