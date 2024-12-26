@@ -81,8 +81,17 @@ To run the project locally:
    cd Forkify
    ```
 
-3. **Open `index.html` in your preferred web browser.**  
-The application should load, and you can start searching for recipes e.g try search by 'pizza'.  
+3. **Install dependencies:**  
+   ```bash
+   npm install
+   ```
+   
+4. **Start the development server:**  
+   ```bash
+   npm start
+   ```
+
+The application should load on ```http://localhost:1234```, and you can start searching for recipes e.g try search by 'pizza'.  
 
 ## Contributing
 
